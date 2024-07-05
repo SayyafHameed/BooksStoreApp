@@ -28,8 +28,8 @@ Stripe Integration: Secure and seamless online payment processing.
 Database Initialization
 DbInitializer and IDbInitializer: Ensures database is correctly seeded with initial data.
 Understanding ASP.NET MVC Data Transfer: ViewBag, ViewData, and TempData
+![Uploading image.png…]()
 
-Hello LinkedIn community,
 
 I'm excited to share this insightful infographic that breaks down the differences between ViewBag, ViewData, and TempData in ASP.NET MVC. Understanding these mechanisms is crucial for effectively managing data transfer within your MVC applications. Here's a brief overview:
 
